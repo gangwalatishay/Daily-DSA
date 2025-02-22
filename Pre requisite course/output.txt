@@ -1,0 +1,2 @@
+hello world enter n
+the value you entered is : 12
